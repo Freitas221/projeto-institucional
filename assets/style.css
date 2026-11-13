@@ -1,0 +1,19 @@
+:root {
+  --navy: #0b1846;
+  --primary: #1a2f7a;
+  --gold: #e9b949;
+  --bg: #f6f8fb;
+  --text: #121a33;
+  --muted: #5c6680;
+  --border: #e1e6ef;
+  --accent: #e3ebf7;
+  --white: #ffffff;
+  --radius: 12px;
+  --max: 1152px;
+}
+
+* { 
+  box-sizing: border-box; 
+  margin: 0; 
+  padding: 0; 
+}
